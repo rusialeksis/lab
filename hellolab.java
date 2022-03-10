@@ -1,5 +1,7 @@
 public class hellolab {
     public static void main( String[] args){
-        System.out.println("Hello Aleksis");
+        int x=2;
+        int y=2;
+        System.out.println(x+y);
     }
 }
